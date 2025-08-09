@@ -15,3 +15,6 @@
 
 # Virtual env
 venv
+
+# No Jupyter notebooks
+*.ipynb
